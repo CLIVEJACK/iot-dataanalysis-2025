@@ -64,7 +64,7 @@
 - 가상환경은 깃허브에 올라기자 않도록 처리
 - .gitignoer에 /mlven 추가 후 깃허브 우선 푸시
 
-- 맷플로립 설치 
+- 맷플로립(Matplotlib) 설치 
 ```shell
 > pip install matplotlib
 ```
@@ -80,17 +80,17 @@ rc('font', family=font) # 한글깨짐현상 해결!!
 rcParams['axes.unicode_minus'] = False # 한글 사용시 마이너스 표시 깨짐 해결!
 ```
 
-- 시본 모듈(맷플롯립 하위 모듈) 설치
+- 시본(Seaborn) 모듈(맷플롯립 하위 모듈) 설치
 ```shell
 > pip install seaborn
 ```
 
-- 사이킷런 설치
+- 사이킷런(ScikitLearn) 설치
 ```shell
 > pip install scikit-learn
 ```
 
-- 덴서플로 설치
+- 텐서플로(TensorFlow) 설치
 ```shell
 > pip install tensorflow==2.15.0
 ```
