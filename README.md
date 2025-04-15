@@ -378,10 +378,13 @@ sns.set_theme(font='Malgun Gothic', rc={'axes.unicode_minus': False})
 ## 6일차 
 
 ### 파이토치 기본학습
+- 파이토치 기본 
+
+- [노트북]()
 
 ### 파이토치 실습
 
-
+## 7일차
 
 ### 토이프로젝트
 
