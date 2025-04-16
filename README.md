@@ -396,9 +396,19 @@ sns.set_theme(font='Malgun Gothic', rc={'axes.unicode_minus': False})
 
 ### 토이프로젝트
 - Cats and Dogs 이진분류 실습
+- 캐글에서 코딩하는 법
 
-- [노트북]()
+- [노트북](./day07/mldl01_Cats_and_Dogs_이진분류.ipynb)
+
+- 훈련세트 예측결과
+
+    <img src='./image/ml0022.png' width='700'>
+
+- Kaggle 참조 노트북
+- [노트북](./day07/mldl03_Cats_vs_Dogs_Kaggle.ipynb)
 
 ## 8일차 
+
+### YOLO
 
 ### 코딩테스트
